@@ -1,2 +1,1 @@
-# Taller-SQL-El-ultimo-Salto
-Taller de entrenamiento en SQL
+# Taller-SQL-El-ultimo-SaltoTaller de entrenamiento en SQL
